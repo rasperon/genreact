@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/npm/v/genreact?style=for-the-badge">
+  <img src="https://img.shields.io/npm/v/genreactai?style=for-the-badge">
   <img src="https://img.shields.io/github/repo-size/rasperon/genreact?style=for-the-badge">
-  <img src="https://img.shields.io/npm/l/genreact?style=for-the-badge">
-  <img src="https://img.shields.io/npm/dt/genreact?style=for-the-badge">
+  <img src="https://img.shields.io/npm/l/genreactai?style=for-the-badge">
+  <img src="https://img.shields.io/npm/dt/genreactai?style=for-the-badge">
   <img src="https://img.shields.io/github/contributors/rasperon/genreact?style=for-the-badge">
   <a href="https://discord.gg/W9rattDP7h" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Join-Discord-7289d9?style=for-the-badge&logo=discord">
@@ -41,7 +41,7 @@
 ## 📦 Installation
 
 ```bash
-npm install -g genreact
+npm install -g genreactai
 ```
 
 ---

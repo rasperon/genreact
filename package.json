@@ -1,5 +1,5 @@
 {
-  "name": "genreact",
+  "name": "genreactai",
   "version": "1.0.0",
   "type": "module",
   "description": "A lightweight and customizable CLI tool to generate React components, tailored to your project's structure and style preferences.",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rasperon",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "react",
     "cli",
@@ -18,7 +18,160 @@
     "component",
     "react-component",
     "codegen",
-    "scaffold"
+    "scaffold",
+    "ai",
+    "artificial-intelligence",
+    "chatbot",
+    "chatgpt-api",
+    "chatgpt",
+    "cursor",
+    "gpt",
+    "gpt for free",
+    "API",
+
+    "web",
+
+    "arc",
+
+    "smart",
+
+    "smartestchatbot",
+
+    "api",
+
+    "dalle",
+
+    "dall-e",
+
+    "text2image",
+
+    "texttoimage",
+
+    "text2img",
+
+    "texttoimg",
+
+    "image",
+
+    "image-generator",
+
+    "midjourney",
+
+    "diffusion",
+
+    "dall-e2",
+
+    "ai-images",
+
+    "ai-images-generator",
+
+    "gpt",
+
+    "discord",
+
+    "chat",
+
+    "chatbot",
+
+    "chatgpt4",
+
+    "chatgpt-4",
+
+    "openai",
+
+    "open-ai",
+
+    "hercai",
+
+    "herc",
+
+    "herc.ai",
+
+    "smartest",
+
+    "bot",
+
+    "robot",
+
+    "axios",
+
+    "canvafy",
+
+    "streamed-chatgpt-api",
+
+    "dart-openai-sdk",
+
+    "completions",
+
+    "cli",
+
+    "bin",
+
+    "command",
+
+    "console",
+
+    "cmd",
+
+    "bing",
+
+    "bing-chat",
+
+    "openaiapi",
+
+    "open.ai",
+
+    "openai-api",
+
+    "gemini",
+
+    "gemini-api",
+
+    "gemini-pro",
+
+    "google",
+
+    "discord-ai",
+
+    "discordai",
+
+    "free",
+
+    "lodash",
+
+    "react",
+
+    "next",
+
+    "chalk",
+
+    "free",
+
+    "lodash",
+
+    "stable",
+
+    "anime",
+
+    "neonpunk",
+
+    "pixel-art",
+
+    "digital-art",
+
+    "manga",
+
+    "photographic",
+
+    "cinematic",
+
+    "3d",
+
+    "3d-model",
+
+    "beta",
+
+    "beta-model"
   ],
   "repository": {
     "type": "git",
