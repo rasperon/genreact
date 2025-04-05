@@ -1,0 +1,38 @@
+{
+  "name": "genreact",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A lightweight and customizable CLI tool to generate React components, tailored to your project's structure and style preferences.",
+  "bin": {
+    "genreact": "./bin/genreact.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rasperon",
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "cli",
+    "generator",
+    "component",
+    "react-component",
+    "codegen",
+    "scaffold"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rasperon/genreact"
+  },
+  "bugs": {
+    "url": "https://github.com/rasperon/genreact/issues"
+  },
+  "homepage": "https://github.com/rasperon/genreact#readme",
+  "dependencies": {
+
+    "axios": "^1.8.4",
+    "chai": "^5.2.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.5.2"
+  }
+}
