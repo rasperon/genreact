@@ -2,10 +2,6 @@ import axios from 'axios';
 import { askQuestions } from './askQuestions.js';
 import { getPrompt } from '../config/geminiPrompt.js';
 import { resolveFilePath, writeComponentFile } from './utils.js';
-import dotenv from 'dotenv';
-
-// Çevresel değişkenler
-dotenv.config();
 
 
 const serverUrl = 'https://gencreateapi.vercel.app/api/generate';
