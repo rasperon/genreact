@@ -1,6 +1,6 @@
 {
   "name": "genreactai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "A lightweight and customizable CLI tool to generate React components, tailored to your project's structure and style preferences.",
   "bin": {
